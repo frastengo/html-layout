@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    height: 1000px;
+    width: 1000px;
+}
+
+.headerbox {
+    width: 1000px;
+    height: 150px;
+    background-color: gray;
+}
+
+.middlebox {
+    background-color: white;
+    height: 750px;
+    width: 700px;
+    margin: 0 auto;
+
+}
+
+.sideleftbox, .siderightbox {
+    background-color: rgb(214, 209, 209);
+    width: 150px;
+    height: 900px;
+
+}
+.footerbox {
+    background-color: rgb(59, 58, 58);
+    height: 150px;
+
+}
+
+.sideleftbox {
+    float: left;
+}
+
+.siderightbox {
+    float: right;
+
+}
