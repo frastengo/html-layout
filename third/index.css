@@ -2,8 +2,9 @@
     width: 100%;
     background-color: gray;
     height: 50px;
-    padding-top: 10px;
+    padding-top: 5px;
     padding-left: 10px;
+    box-sizing: border-box;
 }
 
 .littlebluebox {
