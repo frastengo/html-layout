@@ -1,0 +1,43 @@
+.gray {
+    width: 100%;
+    background-color: gray;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.littlebluebox {
+    background-color: blue;
+    width: 10%;
+    height: 40px;
+}
+
+.white {
+    width: 100%;
+    background-color: white;
+    height: 100px;
+}
+
+.blue {
+    width: 100%;
+    background-color: blue;
+    height: 50px;
+}
+
+.turquoise {
+    width: 100%;
+    background-color: turquoise;
+    height: 50px;
+}
+
+.green {
+    width: 100%;
+    background-color: rgb(168, 211, 168);
+    height: 50px;
+}
+
+.yellow {
+    width: 100%;
+    background-color: yellow;
+    height: 50px;
+}
