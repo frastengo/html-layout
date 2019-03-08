@@ -1,0 +1,69 @@
+
+body {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+
+}
+
+.firstbox, .secondbox, .thirdbox {
+    margin: 20px;
+}
+
+.firstbox {
+    border: 3px solid black;
+    width: 900px;
+    height: 200px;
+    padding-top: 10px
+}
+
+.secondbox {
+    border: 3px dotted black;
+    width: 900px;
+    height: 250px;
+}
+
+.thirdbox {
+    border: 1px solid gray;
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    box-shadow: 10px 5px 5px rgb(146, 144, 144)
+}
+
+.purple {
+    height: 100px;
+    background-color: purple;
+    width: 50px;
+    display: inline-block;
+}
+
+.green {
+    height: 140px;
+    background-color: green;
+    width: 400px;
+    display: inline-block;
+}
+.blue {
+    height: 140px;
+    background-color: blue;
+    width: 150px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+ .nude {
+    width: 800px;
+    background-color: rgb(255, 255, 225);
+    height: 150px;
+    margin: 40px auto;
+    box-shadow: 10px 5px 5px black;
+ }
+
+ h1 {
+     text-align: center;
+     padding-top: 80px;
+     font-size: 40px;
+     color: purple;
+     letter-spacing: 2px;
+ }
